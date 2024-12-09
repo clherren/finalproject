@@ -81,6 +81,7 @@ nav ul li a:hover {
 figure{
     padding-top: 10px;
     text-align: center;
+
 }
 
 figcaption {
@@ -143,4 +144,10 @@ footer a:visited {
 
 footer a:hover {
     text-decoration: underline;
+}
+
+img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
 }
